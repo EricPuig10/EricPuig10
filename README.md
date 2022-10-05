@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+
 
 ![bannergh](https://user-images.githubusercontent.com/102654586/194173365-3c08e7d0-97da-4fa6-8b6d-d35f4958ce94.png)
 
@@ -12,6 +12,8 @@
  
 <h3 align="center"> 🌱 I’m currently learning at Factoria F5, a full-stack bootcamp </h3>
 <h3 align="center"> 📫 How to reach me: puigvendrelloetona@gmail.com </h3>
+<h3 align="center"> 🔭 Check my portfolio: https://ericpuig10.github.io/Portfolio/ </h3>
+<h3 align="center"> 👯 Check my linkedin: https://www.linkedin.com/in/ericpuigvendrello/ </h3>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericpuig10&show_icons=true&locale=en&layout=compact" alt="ericpuig10" /></p>
@@ -19,6 +21,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericpuig10&show_icons=true&locale=en" alt="ericpuig10" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericpuig10&" alt="ericpuig10" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericpuig10&theme=discord&no-bg=true&no-frame=true" alt="ericpuig10" /></a> </p>
 
 
 <!--

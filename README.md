@@ -22,7 +22,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericpuig10&" alt="ericpuig10" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericpuig10&theme=discord&no-bg=true&no-frame=true" alt="ericpuig10" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ericpuig10&theme=discord&no-bg=true&no-frame=true" alt="ericpuig10" /> </p>
 
 
 <!--

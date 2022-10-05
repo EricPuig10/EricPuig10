@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-![Github banner](https://media-exp2.licdn.com/dms/image/C5616AQEx3DEX0J6jEg/profile-displaybackgroundimage-shrink_350_1400/0/1649088612475?e=1663804800&v=beta&t=CujK4iBXqZ9XBxuP5PkRkhy8QP81T1lI8as8tuaqAEU)
+![bannergh](https://user-images.githubusercontent.com/102654586/194173365-3c08e7d0-97da-4fa6-8b6d-d35f4958ce94.png)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lvl090&label=Profile%20views&color=0e75b6&style=flat" alt="ericpuig10" /> </p>
 
